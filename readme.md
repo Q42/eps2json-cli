@@ -9,7 +9,7 @@ Converts a pair of `.eps` and `.txt` files into a single `.json`, compatible wit
 `eps2json filename` Where filename is the eps/txt file without extension, both in the same folder.
 
 ## Examples:
-`eps2json sc-190119`
-`eps2json sc-260119`
+* `eps2json sc-190119`
+* `eps2json sc-260119`
 
 To uninstall, use `npm unlink` in the project folder.
