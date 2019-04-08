@@ -2,7 +2,7 @@
   "name": "eps2json",
   "description": "Converts a pair of .eps and .txt files into a single .json, compatible with Q42's crossword player.",
   "author": "Martin Kool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": {
     "type": "git",

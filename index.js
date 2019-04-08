@@ -22,6 +22,26 @@ function writeFile(fileName, contents) {
 	}); 	
 }
 
+function verify(puzzle) {
+	var words = {},
+			clues = {};
+	for (var i=0; i<puzzle.clues.length; i++) clues[puzzle.clues[i].nr] = true;
+	for (var i=0; i<puzzle.words.length; i++) words[puzzle.words[i].nr] = true;
+	for (var nr in words) {
+		if (!clues[nr]) {
+			console.log('Error: word ' + nr + ' not in clues');
+			return false;
+		}
+	}
+	for (var nr in clues) {
+		if (!words[nr]) {
+			console.log('Error: clue ' + nr + ' not in words');
+			return false;
+		}
+	}
+	return true;
+}
+
 module.exports = (async function() {
 	const args = process.argv.slice(2);
 	if (args.length == 0) {
@@ -35,7 +55,9 @@ module.exports = (async function() {
 
 	let puzzle = eps.parse(epsData, txtData);
 	if (puzzle) {
-		puzzle.id = fileName;
-		writeFile(fileName + '.json', JSON.stringify(puzzle, null, 2));
+		if (verify(puzzle)) {
+			puzzle.id = fileName;
+			writeFile(fileName + '.json', JSON.stringify(puzzle, null, 2));
+		}
 	}
 });

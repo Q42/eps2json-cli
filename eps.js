@@ -51,6 +51,7 @@ module.exports = new (function() {
 		var parsingSolution = false;
 		var dir;
 		var solutions = '';
+
 		for (var i=0; i<lines.length; i++) {
 			var line = lines[i];
 			if (line.indexOf('Oplossing d.d.') == 0) parsingSolution = true;
@@ -64,22 +65,38 @@ module.exports = new (function() {
 
 			if (!parsingSolution && /^ *\d+\. +.*\(.*\)/.test(line)) {
 				//console.log(line)
-				line.replace(/^ *(\d+)\. +(.*)\(.*\)/, function(a,b,c) {
+				line.replace(/^ *(\d+)\. +(.*)\((.*)\)/, function(a,b,c,e) {
+					var desc = c.replace(/\s*$/,'');
+
+					// combos are scrypto clues spread over multiple words. The desc starts with "+ 6" to indicate its combo nr
+					var combo = [b * 1];
+					var comboNr = 0;
+					if (/\+\s?\d+\s+/.test(desc)) {
+						comboNr = desc.replace(/^\+\s?(\d+)\s.*$/i, '$1') * 1;
+						if (comboNr > 0) {
+							combo.push(comboNr);
+							desc = desc.replace(/^\+\s?\d+\s+(.*)$/i, '$1');
+						}
+					}
 					var clue = {
 						nr: b * 1,
-						text: c.replace(/\s*$/,''),
-						dir: dir
+						text: desc,
+						dir: dir,
+						sentenceLength: e
 					}
+					if (comboNr > 0) {
+						clue.combo = combo;
+					}
+					
 					puzzle.clues.push(clue)
 				});
 			}
 
 			if (parsingSolution && /^.*( *\d*\.\w+\;)+/.test(line)) {
-				//console.log(line)
-				solutions += line.replace(/[\r\n\s]/g,'').replace(/\;/g,'.');
+				solutions += line.replace(/[\r\n\s\'\"]/g,'').replace(/\;/g,'.').toLowerCase();
 			}
 		}
-		solutions = solutions.replace(/(\d+)\.(\w+)\./g, function(a,b,c) {
+		solutions = solutions.replace(/(\d+)\.([\w\'\"]+)\./g, function(a,b,c) {
 			var nr = b * 1,
 					word = c;
 			var w = { nr:nr, word: word };
