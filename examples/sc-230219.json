@@ -1,0 +1,626 @@
+{
+  "size": {
+    "width": 15,
+    "height": 17
+  },
+  "date": "2019-02-23",
+  "blackTiles": [
+    {
+      "x": 2,
+      "y": 0
+    },
+    {
+      "x": 4,
+      "y": 0
+    },
+    {
+      "x": 6,
+      "y": 0
+    },
+    {
+      "x": 8,
+      "y": 0
+    },
+    {
+      "x": 10,
+      "y": 0
+    },
+    {
+      "x": 1,
+      "y": 1
+    },
+    {
+      "x": 10,
+      "y": 1
+    },
+    {
+      "x": 1,
+      "y": 2
+    },
+    {
+      "x": 2,
+      "y": 2
+    },
+    {
+      "x": 4,
+      "y": 2
+    },
+    {
+      "x": 6,
+      "y": 2
+    },
+    {
+      "x": 8,
+      "y": 2
+    },
+    {
+      "x": 10,
+      "y": 2
+    },
+    {
+      "x": 11,
+      "y": 2
+    },
+    {
+      "x": 0,
+      "y": 3
+    },
+    {
+      "x": 12,
+      "y": 3
+    },
+    {
+      "x": 13,
+      "y": 3
+    },
+    {
+      "x": 0,
+      "y": 4
+    },
+    {
+      "x": 2,
+      "y": 4
+    },
+    {
+      "x": 4,
+      "y": 4
+    },
+    {
+      "x": 6,
+      "y": 4
+    },
+    {
+      "x": 8,
+      "y": 4
+    },
+    {
+      "x": 9,
+      "y": 4
+    },
+    {
+      "x": 10,
+      "y": 4
+    },
+    {
+      "x": 12,
+      "y": 4
+    },
+    {
+      "x": 14,
+      "y": 4
+    },
+    {
+      "x": 0,
+      "y": 6
+    },
+    {
+      "x": 2,
+      "y": 6
+    },
+    {
+      "x": 4,
+      "y": 6
+    },
+    {
+      "x": 6,
+      "y": 6
+    },
+    {
+      "x": 8,
+      "y": 6
+    },
+    {
+      "x": 10,
+      "y": 6
+    },
+    {
+      "x": 12,
+      "y": 6
+    },
+    {
+      "x": 14,
+      "y": 6
+    },
+    {
+      "x": 0,
+      "y": 7
+    },
+    {
+      "x": 8,
+      "y": 7
+    },
+    {
+      "x": 14,
+      "y": 7
+    },
+    {
+      "x": 0,
+      "y": 8
+    },
+    {
+      "x": 2,
+      "y": 8
+    },
+    {
+      "x": 4,
+      "y": 8
+    },
+    {
+      "x": 6,
+      "y": 8
+    },
+    {
+      "x": 8,
+      "y": 8
+    },
+    {
+      "x": 10,
+      "y": 8
+    },
+    {
+      "x": 12,
+      "y": 8
+    },
+    {
+      "x": 14,
+      "y": 8
+    },
+    {
+      "x": 8,
+      "y": 9
+    },
+    {
+      "x": 0,
+      "y": 10
+    },
+    {
+      "x": 2,
+      "y": 10
+    },
+    {
+      "x": 4,
+      "y": 10
+    },
+    {
+      "x": 6,
+      "y": 10
+    },
+    {
+      "x": 8,
+      "y": 10
+    },
+    {
+      "x": 10,
+      "y": 10
+    },
+    {
+      "x": 11,
+      "y": 10
+    },
+    {
+      "x": 12,
+      "y": 10
+    },
+    {
+      "x": 14,
+      "y": 10
+    },
+    {
+      "x": 0,
+      "y": 12
+    },
+    {
+      "x": 1,
+      "y": 12
+    },
+    {
+      "x": 2,
+      "y": 12
+    },
+    {
+      "x": 4,
+      "y": 12
+    },
+    {
+      "x": 6,
+      "y": 12
+    },
+    {
+      "x": 8,
+      "y": 12
+    },
+    {
+      "x": 10,
+      "y": 12
+    },
+    {
+      "x": 12,
+      "y": 12
+    },
+    {
+      "x": 13,
+      "y": 12
+    },
+    {
+      "x": 14,
+      "y": 12
+    },
+    {
+      "x": 1,
+      "y": 13
+    },
+    {
+      "x": 12,
+      "y": 13
+    },
+    {
+      "x": 1,
+      "y": 14
+    },
+    {
+      "x": 2,
+      "y": 14
+    },
+    {
+      "x": 4,
+      "y": 14
+    },
+    {
+      "x": 6,
+      "y": 14
+    },
+    {
+      "x": 8,
+      "y": 14
+    },
+    {
+      "x": 10,
+      "y": 14
+    },
+    {
+      "x": 12,
+      "y": 14
+    },
+    {
+      "x": 1,
+      "y": 15
+    },
+    {
+      "x": 12,
+      "y": 15
+    },
+    {
+      "x": 2,
+      "y": 16
+    },
+    {
+      "x": 4,
+      "y": 16
+    },
+    {
+      "x": 5,
+      "y": 16
+    },
+    {
+      "x": 6,
+      "y": 16
+    },
+    {
+      "x": 7,
+      "y": 16
+    },
+    {
+      "x": 8,
+      "y": 16
+    },
+    {
+      "x": 10,
+      "y": 16
+    },
+    {
+      "x": 12,
+      "y": 16
+    }
+  ],
+  "nrs": [
+    {
+      "x": 3,
+      "y": 0,
+      "nr": 1
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "nr": 2
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "nr": 3
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "nr": 4
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "nr": 5
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "nr": 6
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "nr": 7
+    },
+    {
+      "x": 13,
+      "y": 4,
+      "nr": 8
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "nr": 9
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "nr": 10
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "nr": 11
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "nr": 12
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "nr": 13
+    },
+    {
+      "x": 9,
+      "y": 9,
+      "nr": 14
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "nr": 15
+    },
+    {
+      "x": 11,
+      "y": 11,
+      "nr": 16
+    },
+    {
+      "x": 2,
+      "y": 13,
+      "nr": 17
+    },
+    {
+      "x": 2,
+      "y": 15,
+      "nr": 18
+    }
+  ],
+  "clues": [
+    {
+      "nr": 5,
+      "text": "Zo probeer je, ook als keeper, iets beter te worden",
+      "dir": "h",
+      "sentenceLength": "2+3+3+5+6",
+      "combo": [
+        5,
+        6
+      ]
+    },
+    {
+      "nr": 9,
+      "text": "Bij meer mensen kleurt het haar minder sterk",
+      "dir": "h",
+      "sentenceLength": "2+8+2+3"
+    },
+    {
+      "nr": 11,
+      "text": "Nar der afscheiding",
+      "dir": "h",
+      "sentenceLength": "3+1+3"
+    },
+    {
+      "nr": 12,
+      "text": "Geweldige internetstandaard",
+      "dir": "h",
+      "sentenceLength": "5"
+    },
+    {
+      "nr": 13,
+      "text": "Moet toegeven dat hij alles weet van John Carter en Kerry Weaver",
+      "dir": "h",
+      "sentenceLength": "8"
+    },
+    {
+      "nr": 14,
+      "text": "Poging tot verandering door aan draden te trekken",
+      "dir": "h",
+      "sentenceLength": "6"
+    },
+    {
+      "nr": 15,
+      "text": "Zuigen als een docent",
+      "dir": "h",
+      "sentenceLength": "15"
+    },
+    {
+      "nr": 17,
+      "text": "Acrobatische vreugde-uiting omdat de ontvanger de game wint",
+      "dir": "h",
+      "sentenceLength": "10"
+    },
+    {
+      "nr": 18,
+      "text": "Zo komt het (on)behoorlijk binnen",
+      "dir": "h",
+      "sentenceLength": "10"
+    },
+    {
+      "nr": 1,
+      "text": "Slaperig doch beangstigend stuk natuur",
+      "dir": "v",
+      "sentenceLength": "3+7+7"
+    },
+    {
+      "nr": 2,
+      "text": "Doet zich voor als citroenenverkoper",
+      "dir": "v",
+      "sentenceLength": "16"
+    },
+    {
+      "nr": 3,
+      "text": "Klunzig gevolg van een slordige transplantatie",
+      "dir": "v",
+      "sentenceLength": "4+12"
+    },
+    {
+      "nr": 4,
+      "text": "Onwaarschijnlijk taai",
+      "dir": "v",
+      "sentenceLength": "4"
+    },
+    {
+      "nr": 6,
+      "text": "De gekroonde bokser ligt op de rand van het dak",
+      "dir": "v",
+      "sentenceLength": "9"
+    },
+    {
+      "nr": 7,
+      "text": "Achterstuk",
+      "dir": "v",
+      "sentenceLength": "7"
+    },
+    {
+      "nr": 8,
+      "text": "Becijferen",
+      "dir": "v",
+      "sentenceLength": "8"
+    },
+    {
+      "nr": 10,
+      "text": "En nu is het vrede in Keulen!",
+      "dir": "v",
+      "sentenceLength": "4+8"
+    },
+    {
+      "nr": 16,
+      "text": "Dat stukje Brabant had te weinig eigens",
+      "dir": "v",
+      "sentenceLength": "6"
+    }
+  ],
+  "words": [
+    {
+      "nr": 5,
+      "word": "delatwathogerleggen"
+    },
+    {
+      "nr": 9,
+      "word": "despoelingisdun"
+    },
+    {
+      "nr": 11,
+      "word": "vanthek"
+    },
+    {
+      "nr": 12,
+      "word": "enorm"
+    },
+    {
+      "nr": 13,
+      "word": "erkenner"
+    },
+    {
+      "nr": 14,
+      "word": "getorn"
+    },
+    {
+      "nr": 15,
+      "word": "stofbehandeling"
+    },
+    {
+      "nr": 17,
+      "word": "breakdance"
+    },
+    {
+      "nr": 18,
+      "word": "indringend"
+    },
+    {
+      "nr": 1,
+      "word": "eengapendeafgrond"
+    },
+    {
+      "nr": 2,
+      "word": "paardenhandelaar"
+    },
+    {
+      "nr": 3,
+      "word": "tweelinkerhanden"
+    },
+    {
+      "nr": 4,
+      "word": "stug"
+    },
+    {
+      "nr": 6,
+      "word": "hoekvorst"
+    },
+    {
+      "nr": 7,
+      "word": "nastoot"
+    },
+    {
+      "nr": 8,
+      "word": "nummeren"
+    },
+    {
+      "nr": 10,
+      "word": "geengedonder"
+    },
+    {
+      "nr": 16,
+      "word": "leende"
+    }
+  ],
+  "id": "sc-230219"
+}

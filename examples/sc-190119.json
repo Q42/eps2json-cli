@@ -1,0 +1,632 @@
+{
+  "size": {
+    "width": 15,
+    "height": 17
+  },
+  "date": "2019-01-19",
+  "blackTiles": [
+    {
+      "x": 4,
+      "y": 0
+    },
+    {
+      "x": 6,
+      "y": 0
+    },
+    {
+      "x": 8,
+      "y": 0
+    },
+    {
+      "x": 9,
+      "y": 0
+    },
+    {
+      "x": 3,
+      "y": 1
+    },
+    {
+      "x": 10,
+      "y": 1
+    },
+    {
+      "x": 2,
+      "y": 2
+    },
+    {
+      "x": 4,
+      "y": 2
+    },
+    {
+      "x": 6,
+      "y": 2
+    },
+    {
+      "x": 8,
+      "y": 2
+    },
+    {
+      "x": 10,
+      "y": 2
+    },
+    {
+      "x": 11,
+      "y": 2
+    },
+    {
+      "x": 12,
+      "y": 2
+    },
+    {
+      "x": 1,
+      "y": 3
+    },
+    {
+      "x": 13,
+      "y": 3
+    },
+    {
+      "x": 0,
+      "y": 4
+    },
+    {
+      "x": 2,
+      "y": 4
+    },
+    {
+      "x": 4,
+      "y": 4
+    },
+    {
+      "x": 6,
+      "y": 4
+    },
+    {
+      "x": 8,
+      "y": 4
+    },
+    {
+      "x": 10,
+      "y": 4
+    },
+    {
+      "x": 12,
+      "y": 4
+    },
+    {
+      "x": 13,
+      "y": 4
+    },
+    {
+      "x": 0,
+      "y": 5
+    },
+    {
+      "x": 13,
+      "y": 5
+    },
+    {
+      "x": 0,
+      "y": 6
+    },
+    {
+      "x": 2,
+      "y": 6
+    },
+    {
+      "x": 4,
+      "y": 6
+    },
+    {
+      "x": 6,
+      "y": 6
+    },
+    {
+      "x": 8,
+      "y": 6
+    },
+    {
+      "x": 10,
+      "y": 6
+    },
+    {
+      "x": 12,
+      "y": 6
+    },
+    {
+      "x": 13,
+      "y": 6
+    },
+    {
+      "x": 14,
+      "y": 6
+    },
+    {
+      "x": 10,
+      "y": 7
+    },
+    {
+      "x": 0,
+      "y": 8
+    },
+    {
+      "x": 1,
+      "y": 8
+    },
+    {
+      "x": 2,
+      "y": 8
+    },
+    {
+      "x": 4,
+      "y": 8
+    },
+    {
+      "x": 6,
+      "y": 8
+    },
+    {
+      "x": 8,
+      "y": 8
+    },
+    {
+      "x": 9,
+      "y": 8
+    },
+    {
+      "x": 10,
+      "y": 8
+    },
+    {
+      "x": 12,
+      "y": 8
+    },
+    {
+      "x": 14,
+      "y": 8
+    },
+    {
+      "x": 6,
+      "y": 9
+    },
+    {
+      "x": 0,
+      "y": 10
+    },
+    {
+      "x": 2,
+      "y": 10
+    },
+    {
+      "x": 4,
+      "y": 10
+    },
+    {
+      "x": 6,
+      "y": 10
+    },
+    {
+      "x": 8,
+      "y": 10
+    },
+    {
+      "x": 10,
+      "y": 10
+    },
+    {
+      "x": 12,
+      "y": 10
+    },
+    {
+      "x": 14,
+      "y": 10
+    },
+    {
+      "x": 10,
+      "y": 11
+    },
+    {
+      "x": 0,
+      "y": 12
+    },
+    {
+      "x": 2,
+      "y": 12
+    },
+    {
+      "x": 4,
+      "y": 12
+    },
+    {
+      "x": 6,
+      "y": 12
+    },
+    {
+      "x": 8,
+      "y": 12
+    },
+    {
+      "x": 10,
+      "y": 12
+    },
+    {
+      "x": 12,
+      "y": 12
+    },
+    {
+      "x": 14,
+      "y": 12
+    },
+    {
+      "x": 1,
+      "y": 13
+    },
+    {
+      "x": 13,
+      "y": 13
+    },
+    {
+      "x": 2,
+      "y": 14
+    },
+    {
+      "x": 4,
+      "y": 14
+    },
+    {
+      "x": 6,
+      "y": 14
+    },
+    {
+      "x": 8,
+      "y": 14
+    },
+    {
+      "x": 10,
+      "y": 14
+    },
+    {
+      "x": 12,
+      "y": 14
+    },
+    {
+      "x": 3,
+      "y": 15
+    },
+    {
+      "x": 10,
+      "y": 15
+    },
+    {
+      "x": 11,
+      "y": 15
+    },
+    {
+      "x": 4,
+      "y": 16
+    },
+    {
+      "x": 5,
+      "y": 16
+    },
+    {
+      "x": 6,
+      "y": 16
+    },
+    {
+      "x": 8,
+      "y": 16
+    },
+    {
+      "x": 9,
+      "y": 16
+    }
+  ],
+  "nrs": [
+    {
+      "x": 5,
+      "y": 0,
+      "nr": 1
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "nr": 2
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "nr": 3
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "nr": 4
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "nr": 5
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "nr": 6
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "nr": 7
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "nr": 8
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "nr": 9
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "nr": 10
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "nr": 11
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "nr": 12
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "nr": 13
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "nr": 14
+    },
+    {
+      "x": 7,
+      "y": 9,
+      "nr": 15
+    },
+    {
+      "x": 9,
+      "y": 9,
+      "nr": 16
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "nr": 17
+    },
+    {
+      "x": 11,
+      "y": 11,
+      "nr": 18
+    },
+    {
+      "x": 2,
+      "y": 13,
+      "nr": 19
+    },
+    {
+      "x": 4,
+      "y": 15,
+      "nr": 20
+    }
+  ],
+  "clues": [
+    {
+      "nr": 3,
+      "text": "Ze zijn vervelend, die twee bomen",
+      "dir": "h",
+      "sentenceLength": "6"
+    },
+    {
+      "nr": 6,
+      "text": "Werktransportbril",
+      "dir": "h",
+      "sentenceLength": "11"
+    },
+    {
+      "nr": 9,
+      "text": "Wat en hoe (van iemands leven)",
+      "dir": "h",
+      "sentenceLength": "12"
+    },
+    {
+      "nr": 10,
+      "text": "Bij wijze van bevestiging nu al betalen",
+      "dir": "h",
+      "sentenceLength": "10"
+    },
+    {
+      "nr": 11,
+      "text": "Meesterstuk",
+      "dir": "h",
+      "sentenceLength": "4"
+    },
+    {
+      "nr": 13,
+      "text": "Niet zo snugger privilege",
+      "dir": "h",
+      "sentenceLength": "6"
+    },
+    {
+      "nr": 15,
+      "text": "Ze kijken met een cynisch lachje naar de lucht",
+      "dir": "h",
+      "sentenceLength": "8"
+    },
+    {
+      "nr": 17,
+      "text": "Wat in de prijzenkast staat vormt de basis voor een muziekstuk",
+      "dir": "h",
+      "sentenceLength": "10"
+    },
+    {
+      "nr": 18,
+      "text": "Slaapplaats met een ballon erboven",
+      "dir": "h",
+      "sentenceLength": "4"
+    },
+    {
+      "nr": 19,
+      "text": "Schuifelfeest",
+      "dir": "h",
+      "sentenceLength": "11"
+    },
+    {
+      "nr": 20,
+      "text": "Met dit deel van het koor is niet om te gaan",
+      "dir": "h",
+      "sentenceLength": "6"
+    },
+    {
+      "nr": 1,
+      "text": "Kan met droge ogen bediend worden",
+      "dir": "v",
+      "sentenceLength": "16"
+    },
+    {
+      "nr": 2,
+      "text": "Baas van de urbanisatie",
+      "dir": "v",
+      "sentenceLength": "17"
+    },
+    {
+      "nr": 4,
+      "text": "Laten horen hoe fijn het is in de sportschool",
+      "dir": "v",
+      "sentenceLength": "7"
+    },
+    {
+      "nr": 5,
+      "text": "Geen tekst hebben voor het gebed na het eten",
+      "dir": "v",
+      "sentenceLength": "5+2+6"
+    },
+    {
+      "nr": 7,
+      "text": "Bijrijder in een sleepwagen",
+      "dir": "v",
+      "sentenceLength": "12"
+    },
+    {
+      "nr": 8,
+      "text": "Zuid-Amerikaanse Tibetaan",
+      "dir": "v",
+      "sentenceLength": "4"
+    },
+    {
+      "nr": 12,
+      "text": "Uitgeversziekte",
+      "dir": "v",
+      "sentenceLength": "6"
+    },
+    {
+      "nr": 14,
+      "text": "Op die plant wordt geschoten",
+      "dir": "v",
+      "sentenceLength": "4"
+    },
+    {
+      "nr": 16,
+      "text": "Net niet voorbij",
+      "dir": "v",
+      "sentenceLength": "7"
+    }
+  ],
+  "words": [
+    {
+      "nr": 3,
+      "word": "eikels"
+    },
+    {
+      "nr": 6,
+      "word": "dienstfiets"
+    },
+    {
+      "nr": 9,
+      "word": "antecedenten"
+    },
+    {
+      "nr": 10,
+      "word": "vastpinnen"
+    },
+    {
+      "nr": 11,
+      "word": "akte"
+    },
+    {
+      "nr": 13,
+      "word": "vrijdom"
+    },
+    {
+      "nr": 15,
+      "word": "spotters"
+    },
+    {
+      "nr": 17,
+      "word": "toonschaal"
+    },
+    {
+      "nr": 18,
+      "word": "mand"
+    },
+    {
+      "nr": 19,
+      "word": "seniorenbal"
+    },
+    {
+      "nr": 20,
+      "word": "tenors"
+    },
+    {
+      "nr": 1,
+      "word": "uienschilmachine"
+    },
+    {
+      "nr": 2,
+      "word": "bestedingspatroon"
+    },
+    {
+      "nr": 4,
+      "word": "spinnen"
+    },
+    {
+      "nr": 5,
+      "word": "nietstedanken"
+    },
+    {
+      "nr": 7,
+      "word": "trekautomaat"
+    },
+    {
+      "nr": 8,
+      "word": "lama"
+    },
+    {
+      "nr": 12,
+      "word": "tering"
+    },
+    {
+      "nr": 14,
+      "word": "roos"
+    },
+    {
+      "nr": 16,
+      "word": "onlangs"
+    }
+  ],
+  "id": "sc-190119"
+}
