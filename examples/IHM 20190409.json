@@ -1,0 +1,656 @@
+{
+  "size": {
+    "width": 13,
+    "height": 9
+  },
+  "date": "",
+  "blackTiles": [
+    {
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": 2,
+      "y": 0
+    },
+    {
+      "x": 6,
+      "y": 0
+    },
+    {
+      "x": 8,
+      "y": 0
+    },
+    {
+      "x": 12,
+      "y": 0
+    },
+    {
+      "x": 9,
+      "y": 1
+    },
+    {
+      "x": 0,
+      "y": 2
+    },
+    {
+      "x": 6,
+      "y": 2
+    },
+    {
+      "x": 12,
+      "y": 2
+    },
+    {
+      "x": 4,
+      "y": 3
+    },
+    {
+      "x": 9,
+      "y": 3
+    },
+    {
+      "x": 0,
+      "y": 4
+    },
+    {
+      "x": 1,
+      "y": 4
+    },
+    {
+      "x": 10,
+      "y": 4
+    },
+    {
+      "x": 11,
+      "y": 4
+    },
+    {
+      "x": 12,
+      "y": 4
+    },
+    {
+      "x": 3,
+      "y": 5
+    },
+    {
+      "x": 0,
+      "y": 6
+    },
+    {
+      "x": 6,
+      "y": 6
+    },
+    {
+      "x": 8,
+      "y": 6
+    },
+    {
+      "x": 12,
+      "y": 6
+    },
+    {
+      "x": 3,
+      "y": 7
+    },
+    {
+      "x": 0,
+      "y": 8
+    },
+    {
+      "x": 4,
+      "y": 8
+    },
+    {
+      "x": 6,
+      "y": 8
+    },
+    {
+      "x": 10,
+      "y": 8
+    },
+    {
+      "x": 12,
+      "y": 8
+    }
+  ],
+  "greyTiles": [
+    {
+      "x": 2,
+      "y": 4,
+      "c": [
+        210.82352941176472,
+        210.82352941176472,
+        210.82352941176472
+      ]
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "c": [
+        210.82352941176472,
+        210.82352941176472,
+        210.82352941176472
+      ]
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "c": [
+        210.82352941176472,
+        210.82352941176472,
+        210.82352941176472
+      ]
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "c": [
+        210.82352941176472,
+        210.82352941176472,
+        210.82352941176472
+      ]
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "c": [
+        210.82352941176472,
+        210.82352941176472,
+        210.82352941176472
+      ]
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "c": [
+        210.82352941176472,
+        210.82352941176472,
+        210.82352941176472
+      ]
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "c": [
+        210.82352941176472,
+        210.82352941176472,
+        210.82352941176472
+      ]
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "c": [
+        210.82352941176472,
+        210.82352941176472,
+        210.82352941176472
+      ]
+    }
+  ],
+  "nrs": [
+    {
+      "x": 1,
+      "y": 0,
+      "nr": 1
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "nr": 2
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "nr": 3
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "nr": 4
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "nr": 5
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "nr": 6
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "nr": 7
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "nr": 8
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "nr": 9
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "nr": 10
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "nr": 11
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "nr": 12
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "nr": 13
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "nr": 14
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "nr": 15
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "nr": 16
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "nr": 17
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "nr": 18
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "nr": 19
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "nr": 20
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "nr": 21
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "nr": 22
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "nr": 23
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "nr": 24
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "nr": 25
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "nr": 26
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "nr": 27
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "nr": 28
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "nr": 29
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "nr": 30
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "nr": 31
+    },
+    {
+      "x": 7,
+      "y": 8,
+      "nr": 32
+    }
+  ],
+  "clues": [
+    {
+      "nr": 2,
+      "text": "Fietsen op het grote __",
+      "dir": "h"
+    },
+    {
+      "nr": 6,
+      "text": "Hij gaat diep",
+      "dir": "h"
+    },
+    {
+      "nr": 9,
+      "text": "'Michael Jackson-fans protesteren bij __ tegen weghalen beeld'",
+      "dir": "h"
+    },
+    {
+      "nr": 12,
+      "text": "Breaking __",
+      "dir": "h"
+    },
+    {
+      "nr": 13,
+      "text": "Soort conifeer",
+      "dir": "h"
+    },
+    {
+      "nr": 14,
+      "text": "Stephan __, schrijver (Grip)",
+      "dir": "h"
+    },
+    {
+      "nr": 15,
+      "text": "__ Variations, Tom Waits",
+      "dir": "h"
+    },
+    {
+      "nr": 16,
+      "text": "Remco en Jan voorop De Volkskrant",
+      "dir": "h"
+    },
+    {
+      "nr": 18,
+      "text": "Zouteloos",
+      "dir": "h"
+    },
+    {
+      "nr": 21,
+      "text": "Ging in januari omhoog",
+      "dir": "h"
+    },
+    {
+      "nr": 23,
+      "text": "Sportonderdeel waarbij men moet overgeven",
+      "dir": "h"
+    },
+    {
+      "nr": 26,
+      "text": "Past voor sla of afweer",
+      "dir": "h"
+    },
+    {
+      "nr": 27,
+      "text": "Huis __ Heide",
+      "dir": "h"
+    },
+    {
+      "nr": 28,
+      "text": "'God of __ wint 5 Bafta Game Awards'",
+      "dir": "h"
+    },
+    {
+      "nr": 29,
+      "text": "'Invallen in verband met aanslag __'",
+      "dir": "h"
+    },
+    {
+      "nr": 31,
+      "text": "Zwart goedje",
+      "dir": "h"
+    },
+    {
+      "nr": 32,
+      "text": "'Annemieke Schollaardt nieuwe stem van __ 1'",
+      "dir": "h"
+    },
+    {
+      "nr": 1,
+      "text": "Loopt langzaam leeg in de auto",
+      "dir": "v"
+    },
+    {
+      "nr": 2,
+      "text": "Past voor bouwen of tekenen",
+      "dir": "v"
+    },
+    {
+      "nr": 3,
+      "text": "Geen __ zak",
+      "dir": "v"
+    },
+    {
+      "nr": 4,
+      "text": "Bittere types",
+      "dir": "v"
+    },
+    {
+      "nr": 5,
+      "text": "Luchttoevoer",
+      "dir": "v"
+    },
+    {
+      "nr": 7,
+      "text": "Bijbelfilm?",
+      "dir": "v"
+    },
+    {
+      "nr": 8,
+      "text": "Hit van Fleetwood Mac",
+      "dir": "v"
+    },
+    {
+      "nr": 10,
+      "text": "Stak George Washington over",
+      "dir": "v"
+    },
+    {
+      "nr": 11,
+      "text": "Onrookbare tabak",
+      "dir": "v"
+    },
+    {
+      "nr": 17,
+      "text": "Balthasar van der __, stillevenschilder",
+      "dir": "v"
+    },
+    {
+      "nr": 19,
+      "text": "Bij de neus",
+      "dir": "v"
+    },
+    {
+      "nr": 20,
+      "text": "Oud en nieuw",
+      "dir": "v"
+    },
+    {
+      "nr": 22,
+      "text": "'Johan Derksen weer thuis na val van __'",
+      "dir": "v"
+    },
+    {
+      "nr": 24,
+      "text": "__ For The Tillerman, Cat Stevens",
+      "dir": "v"
+    },
+    {
+      "nr": 25,
+      "text": "Utrechtse aanslaglocatie",
+      "dir": "v"
+    },
+    {
+      "nr": 30,
+      "text": "Autowedstrijd",
+      "dir": "v"
+    }
+  ],
+  "words": [
+    {
+      "nr": "2",
+      "word": "MES"
+    },
+    {
+      "nr": "6",
+      "word": "BAS"
+    },
+    {
+      "nr": "9",
+      "word": "MCDONALDS"
+    },
+    {
+      "nr": "12",
+      "word": "BAD"
+    },
+    {
+      "nr": "13",
+      "word": "CEDER"
+    },
+    {
+      "nr": "14",
+      "word": "ENTER"
+    },
+    {
+      "nr": "15",
+      "word": "MULE"
+    },
+    {
+      "nr": "16",
+      "word": "CAMU"
+    },
+    {
+      "nr": "18",
+      "word": "LAF"
+    },
+    {
+      "nr": "21",
+      "word": "BTW"
+    },
+    {
+      "nr": "23",
+      "word": "ESTAFETTE"
+    },
+    {
+      "nr": "26",
+      "word": "RAKET"
+    },
+    {
+      "nr": "27",
+      "word": "TER"
+    },
+    {
+      "nr": "28",
+      "word": "WAR"
+    },
+    {
+      "nr": "29",
+      "word": "TELEGRAAF"
+    },
+    {
+      "nr": "31",
+      "word": "PEK"
+    },
+    {
+      "nr": "32",
+      "word": "NPO"
+    },
+    {
+      "nr": "1",
+      "word": "ACCU"
+    },
+    {
+      "nr": "2",
+      "word": "MODEL"
+    },
+    {
+      "nr": "3",
+      "word": "ENE"
+    },
+    {
+      "nr": "4",
+      "word": "SARCASTEN"
+    },
+    {
+      "nr": "5",
+      "word": "ADEMHALEN"
+    },
+    {
+      "nr": "7",
+      "word": "ABEL"
+    },
+    {
+      "nr": "8",
+      "word": "SARA"
+    },
+    {
+      "nr": "10",
+      "word": "DELAWARE"
+    },
+    {
+      "nr": "11",
+      "word": "SNUIF"
+    },
+    {
+      "nr": "17",
+      "word": "AST"
+    },
+    {
+      "nr": "19",
+      "word": "BEET"
+    },
+    {
+      "nr": "20",
+      "word": "RETRO"
+    },
+    {
+      "nr": "22",
+      "word": "TRAP"
+    },
+    {
+      "nr": "24",
+      "word": "TEA"
+    },
+    {
+      "nr": "25",
+      "word": "TRAM"
+    },
+    {
+      "nr": "30",
+      "word": "GP"
+    }
+  ],
+  "endSolution": "AL-BASHIR",
+  "id": "IHM 20190409"
+}

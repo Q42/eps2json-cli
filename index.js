@@ -51,11 +51,12 @@ module.exports = (async function() {
 
 	const fileName = args[0].replace(/\.eps/gi, ''),
 				epsData = await loadFile(fileName + '.eps'),
-				txtData = await loadFile(fileName + '.txt');
+        txtData = await loadFile(fileName + '.txt'),
+        txtData2 = await loadFile(fileName + ' OPL.txt');
 
-	let puzzle = eps.parse(epsData, txtData);
+	let puzzle = eps.parse(epsData, txtData, txtData2);
 	if (puzzle) {
-		if (verify(puzzle)) {
+		if (true || verify(puzzle)) {
 			puzzle.id = fileName;
 			writeFile(fileName + '.json', JSON.stringify(puzzle, null, 2));
 		}
