@@ -83,7 +83,7 @@ module.exports = new (function() {
 			// IHM end solution
 			if (ihmSolution && line.indexOf('Oplossing:') > -1) {
 				var parts = line.split(':');
-				puzzle.endSolution = parts[1].trim();
+				puzzle.endSolution = parts[1].trim().replace(/[-]/g, '');
 				continue;
 			}
 
